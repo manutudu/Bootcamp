@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+/* Global CSS */
+P{
+    font-size: 16px;
+    font-family: "OpenSans";
+    color: rgb(252, 252, 252);
+    line-height: 24px;
+}
+
+h2{
+    font-size: 65px;
+    font-family: "Raleway";
+    color: #ff8b38;
+}
+
+
+/* header css code start */
+header{
+    background: rgb(115, 179, 165);
+    padding: 8px 0px;
+}
+
+.nav-link{
+    color: #fff;
+}
+
+
+.banner-section{
+    width: 100%;
+    background: url(../img/carbanner.png) center center no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.content-inner p{
+    width: 69%;
+    color: #fff;
+    font-family: "Raleway";
+    font-family: 300;
+}
+
+
